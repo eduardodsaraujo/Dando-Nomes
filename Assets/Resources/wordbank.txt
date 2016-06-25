@@ -1,0 +1,75 @@
+﻿\\ Comentarios sao ignorados pelo parser
+\\ Elementos devem ser separados por um único espaço
+\\ Imagens devem ser passadas sem a extensão
+\\ A sequencia de dados lida e:
+\\ Contexto 	Nome 	SequenciaDeSimbolos 	Imagem 		Dificuldade 	Imagem2(Opcional)
+\\ Os números 1, 2, 3 correspondem às palavras comuns (não vinculadas aos monstros) que aparecem, respectivamente, nos níveis fácil, médio e dificil
+\\ Os números 4, 5 e 6 correspondem às palavras dos monstros dos níveis fácil, médio e difícil, respectivamente
+\\ Contexto Animais
+Animais Gato gato Gato 1
+Feira Coco coco coco 1
+Escola Pipa pipa pipa 1
+Animais Vaca vaca Vaca 1
+Animais Rato rato Rato 1
+Animais Pato pato Pato 1
+Animais Porco porco Porco 2
+Animais Bode bode bode 2
+Animais Grilo grilo grilo 2
+Animais Peixe peixe peixe 2
+Animais Cavalo cavalo Cavalo 3
+Animais Cachorro cachorro Cachorro 3
+Animais Abelha abelha Abelha 3
+Animais Mosca mosca mosca 3
+Animais Coelho coelho Coelho 4
+Animais Galinha galinha Galinha 4
+Animais Borboleta borboleta borboleta 5
+Animais Aranha aranha aranha 5
+Animais Minhoca minhoca minhoca 6
+Animais Ovelha ovelha Ovelha 6
+Animais Pássaro pássaro passaro 6
+\\ Contexto Escola
+Escola Dado dado dado 1
+Escola Flor flor flor 1
+Escola Bola bola bola 1
+Escola Lápis lápis lapis 2
+Escola Cola cola cola 2
+Escola Violão violão violao 2
+Escola Boneca boneca boneca 2
+Escola Apontador apontador apontador 3
+Escola Livro livro livro 3
+Escola Mochila mochila mochila 3
+Escola Caderno caderno caderno 3
+Escola Bioquê bioquê bioque 4
+Escola Flauta flauta flauta 4
+Escola Borracha borracha borracha 4
+Escola Damática damática damatica 5
+Escola Catavento catavento catavento 5
+Escola Mandala mandala mandala 5
+Escola Pandeiro pandeiro pandeiro 6
+Escola Trompete trompete trompete 6
+Escola Atabaque atabaque atabaque 6
+\\ Contexto Feira
+Feira Limão limão limao 1
+Feira Uva uva uva 1
+Feira Ovo ovo ovo 1
+Feira Pera pera pera 2
+Feira Laranja laranja laranja 2
+Feira Abacate abacate abacate 2
+Feira Banana banana banana 2
+Feira Maçã maçã maca 2
+Feira Alho alho alho 3
+Feira Queijo queijo queijo 3
+Feira Cebola cebola cebola 3
+Feira Tomate tomate tomate 3
+Feira Milho milho milho 4
+Feira Pimenta pimenta pimenta 4
+Feira Mamão mamão mamao 4
+Feira Cenoura cenoura cenoura 4
+Feira Morango morango morango 5
+Feira Abacaxi abacaxi abacaxi 5
+Feira Melancia melancia melancia 5
+Feira Abóbora abóbora abobora 5
+Feira Carambola carambola Carambola 6
+Feira Rabanete rabanete rabanete 6
+Feira Brócolis brócolis brocolis 6
+Feira Repolho repolho repolho 6
