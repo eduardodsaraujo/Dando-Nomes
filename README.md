@@ -3,7 +3,6 @@
 ![dn.jpg](https://bitbucket.org/repo/y6o65y/images/1866083674-dn.jpg)
 
 
-
 Dando Nomes é um aplicativo que tem como público alvo crianças e busca auxiliar no processo de aprendizagem de forma paralela ao ensino tradicional da escola. O jogo tem como foco incentivar a prática dos primeiros passos da escrita de maneira divertida e didática. Para a criação do projeto foi utilizado Unity e a linguagem C#.
  
 **
